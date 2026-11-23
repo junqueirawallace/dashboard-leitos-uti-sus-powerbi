@@ -7,10 +7,10 @@ Dashboard executivo desenvolvido no **Power BI Desktop** para análise da infrae
 ## 📊 Visão Geral do Projeto
 
 ### 1. Panorama da Rede Hospitalar e Leitos Gerais
-![Visão Geral do Dashboard](visao-geral.png)
+![Visão Geral do Dashboard](visao-geral.png.png)
 
 ### 2. Raio-X da Capacidade de UTIs
-![Capacidade de UTI](capacidade-uti.png)
+![Capacidade de UTI](capacidade-uti.png.png)
 
 ---
 
